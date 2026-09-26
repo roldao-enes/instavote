@@ -1,6 +1,8 @@
 Example Voting (Instavote) App
 =========
 
+Another test.
+
 Getting started
 ---------------
 
